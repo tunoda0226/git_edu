@@ -8,5 +8,5 @@
             as = kami * i;
             printf("%2d\5n" , as);
         }
-        return 0;
+        return 0;/*むずかしいんだが*/
     }
